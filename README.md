@@ -8,7 +8,8 @@ powered by yukaizhao
 
 K线图 滑块控制
 
-http://html54stock.googlecode.com/svn/trunk/k-painter.v1.htm'>http://html54stock.googlecode.com/svn/trunk/imgs/k-controller.JPG' />
+https://raw.githubusercontent.com/dpsnet/html54stock/master/k-painter.v1.htm 
+https://raw.githubusercontent.com/dpsnet/html54stock/master/imgs/k-controller.JPG
 
 K线图 触摸控制
 
